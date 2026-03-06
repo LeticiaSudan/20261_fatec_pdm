@@ -11,7 +11,7 @@ const Pedido = ({icone, titulo, descricao}) => {
                 <div className="ms-2 flex-grow-1 border rounded p-2">
                     <h4 className="text-center">{titulo}</h4>
                     <p className="text-center">{descricao}</p>
-                </div>
+                </div> 
             </div>
            
     )

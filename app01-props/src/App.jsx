@@ -40,7 +40,7 @@ const App = () => {
                             data="17/06/2025"
                             icone="shirt"
                             titulo="Camisa"
-                            descricao="Uma camisa preta" />
+                            descricao="Uma camisa preta" /> 
                         {componenteFeedback}
                     </Cartao>
                 </div>
